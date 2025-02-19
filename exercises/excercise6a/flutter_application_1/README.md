@@ -1,4 +1,4 @@
-# flutter_application_calculator
+# calculator
 
 A new Flutter calculator project.
 
