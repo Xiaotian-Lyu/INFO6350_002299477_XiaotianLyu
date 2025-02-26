@@ -1,12 +1,15 @@
-# flutter_application_1
+# calculator
 
-A new Flutter project.
+A new Flutter calculator project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="446" alt="截屏2025-02-18 20 32 16" src="https://github.com/user-attachments/assets/0eb04eeb-efc1-4a99-b820-66e572080007" />
+
+
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
