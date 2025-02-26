@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is Flutter?",
+      "answers": ["A framework", "A programming language", "A database", "An OS"],
+      "correct_answers": [0]
+    },
+    {
+      "question": "Dart is used for Flutter development?",
+      "answers": ["True", "False"],
+      "correct_answers": [0]
+    },
+    {
+      "question": "Select Flutter state management options?",
+      "answers": ["Provider", "Redux", "Bloc", "SQL"],
+      "correct_answers": [0, 1, 2]
+    }
+]
+  
