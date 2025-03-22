@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+<img width="449" alt="截屏2025-03-21 17 41 42" src="https://github.com/user-attachments/assets/35712ad4-5d25-4c71-9935-91c0633e044e" />
+<img width="974" alt="截屏2025-03-21 17 43 58" src="https://github.com/user-attachments/assets/1ca3a04e-661e-4e4f-81b7-9faa8373ecbb" />
+<img width="456" alt="截屏2025-03-21 18 29 10" src="https://github.com/user-attachments/assets/8e240dac-b877-4bb2-8dbf-53ad3330188b" />
+<img width="972" alt="截屏2025-03-21 18 31 11" src="https://github.com/user-attachments/assets/93004ac7-9714-4ff1-9720-1d9eb7a9374e" />
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
