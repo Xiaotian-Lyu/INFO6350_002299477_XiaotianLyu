@@ -1,6 +1,5 @@
 # flutter-codelabs
 
-A new Flutter project.
 <img width="453" alt="截屏2025-04-08 15 53 17" src="https://github.com/user-attachments/assets/b57748ee-c078-4f5d-99dc-92e033446d97" />
 <img width="452" alt="截屏2025-04-09 10 23 17" src="https://github.com/user-attachments/assets/d36ebf72-bbb7-4d01-b4c0-d8cacba929df" />
 <img width="445" alt="截屏2025-04-09 10 23 33" src="https://github.com/user-attachments/assets/0cd19a3d-3dd7-4425-a89c-50d7297db4ab" />
