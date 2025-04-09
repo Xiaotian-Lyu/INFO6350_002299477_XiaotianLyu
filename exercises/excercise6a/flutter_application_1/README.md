@@ -2,10 +2,11 @@
 
 A new Flutter calculator project.
 
+<img width="425" alt="截屏2025-04-09 09 52 38" src="https://github.com/user-attachments/assets/94474a4a-e715-4b33-9034-14c531e552f6" />
+
 ## Getting Started
 
 
-<img width="446" alt="截屏2025-02-18 20 32 16" src="https://github.com/user-attachments/assets/0eb04eeb-efc1-4a99-b820-66e572080007" />
 
 
 
