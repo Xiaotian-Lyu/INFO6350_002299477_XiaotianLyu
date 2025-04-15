@@ -7,7 +7,7 @@ A Flutter + Firebase-powered mobile marketplace app that allows users to post, b
 ---
 ## ✅ Project Overview
 
-- This is the final project for a Mobile App Development course
+- This is the final project for INFO 6350
 - Currently **only supports iOS**
 - Backend integration includes **Firebase Authentication, Firestore, and Storage**
 - Core features implemented: anonymous login, post creation with photos, listing browsing, post detail view
