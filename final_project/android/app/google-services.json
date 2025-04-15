@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056293605452",
+    "project_id": "finalproject-second-hand-app",
+    "storage_bucket": "finalproject-second-hand-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056293605452:android:186920c8ac6e29997864e9",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAz2GqC3Jh-75QFdyNTfM2aBdZ87yeCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
