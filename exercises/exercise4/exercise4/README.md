@@ -11,16 +11,4 @@
 
 
 
-## Getting Started<img width="446" alt="截屏2025-04-06 22 33 45" src="https://github.com/user-attachments/assets/5cff65b7-d529-4808-9169-50b61c48730a" />
 
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
