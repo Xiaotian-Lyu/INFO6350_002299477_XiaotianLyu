@@ -38,7 +38,7 @@ A Flutter + Firebase-powered mobile marketplace app that allows users to post, b
 
 ## 🎥 Demo Video
 
-👉 [Click here to view the demo video](https://youtube.com/shorts/aBc9Vl4sr2w?feature=share)  
+👉 [Click here to view the demo video](https://youtube.com/shorts/jJyI73QGyIA?feature=share)  
 
 ---
 
