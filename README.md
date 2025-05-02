@@ -1,4 +1,3 @@
-# INFO6350_002299477_XiaotianLyu
 
 **Course**: INFO 6350 - Smartphones-Based Web Development  
 **Student**: Xiaotian Lyu
